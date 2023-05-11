@@ -9,4 +9,5 @@ facilitate better retrieval of information.
 This Project is made by two of us :
 
 Palak Gupta
+Priya Singh Raghav
 Raghav Bhandari
